@@ -1,5 +1,5 @@
 # Summary
 
-* Theory
+* [Theory](chapter1.md)
 * Chapter2
 
