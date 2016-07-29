@@ -1,0 +1,33 @@
+#New Features
+
+## Calculators
+
+![calculator](https://uploads.intercomcdn.com/i/o/8639453/57cd5362a151535e690bba09/File1469555086577)
+
+Guesstimate spreadsheets are flexible, but not always simple. Sometimes you just want to run one particular function multiple times or share it with others.  After several requests, we’ve put together a system for creating calculators from spreadsheets. This allows you to generate many custom calculators from selected sets of inputs and outputs of any of your models.  Read more about them [here](https://medium.com/guesstimate-blog/create-calculators-from-guesstimate-models-7703c357e16f#.5gdcw7bmc).
+
+Some use cases:
+
+*   If someone is skeptical of your budget, make them a calculator and have them play with the inputs.
+*   Want to convince others of the ROI of your product? Make a calculator for them to estimate it with.
+*   Curious how much time you’ll spend brushing your teeth over your life? Use [someone else’s calculator](https://www.getguesstimate.com/calculators/15) if one exists.
+
+## City Population Integration
+
+![](http://g.recordit.co/3QgA7kgJz8.gif)
+
+
+Performing a market size in New York? Rather than looking up the population, you can now directly query it using a convenient "**@"** syntax. Right now this syntax supports United States cities and their populations.  As you may imagine, we’re intending to add a lot more.  If there’s anything specific you would like us to see, please let us know.
+
+## Highlighted arrows & function inputs
+
+![](http://g.recordit.co/EfmB1NslJN.gif)
+
+Curious what all the children and parents of a node are? All arrows used to look the same, but now we highlight those connected to whatever metric is selected. Inputs are a dark green, outputs a dark blue.  
+
+We've also highlighted metric names in functions.  They're green if they're valid and red if they're broken.
+
+## Other small fixes
+
+*   The ‘x’ button on the canvas sidebar now reads ‘close.’
+*   We have a trash icon for deleting nodes, in case you don’t want to use key commands.
