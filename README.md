@@ -1,3 +1,3 @@
-# First Chapter
+# Guesstimate
 
-This is a test and I'm curious how well it will do.
+Guesstimate is an app that helps you run Monte Carlo simulations on things with uncertainty.

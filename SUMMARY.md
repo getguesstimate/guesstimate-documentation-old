@@ -1,6 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting_started/intro.md)
-   * [test23](getting_started/test23.md)
+* [Getting Started](getting_started/README.md)
+   * [Input Types](getting_started/input_types.md)
+* [Using Functions](functions/README.md)
+  * [Available Functions](functions/available_functions.md)
+  * [Finance Functions](functions/finance.md)
+  * [Operators](functions/operators.md)
 
