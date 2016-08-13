@@ -1,16 +1,23 @@
 # SIPS and SLURPS
 
-IPs and SLURPs are the two key elements to the [SIPmath Standard](http://probabilitymanagement.org/standards.html), a standard designed for the communication of uncertain quantities.
+SIPs and SLURPs are the two key elements to the [SIPmath Standard](http://probabilitymanagement.org/standards.html), a
+standard designed for the communication of uncertain quantities.
 
-A SIP, or _Stochastic Information Packet_, contains a name field, describing the quantity being measured, a provenance field, detailing the source of the data, and a list of the samples representative of the quantity being measured.
+A SIP, or _Stochastic Information Packet_, contains a name field, describing the quantity being measured, a provenance
+field, detailing the source of the data, and a list of the samples representative of the quantity being measured.
 
-A SLURP, or _Stochastic Library Unit with Relationships Preserved,_ is a collection of potentially related SIPs, with relationships preserved via the order of the samples within each SIP.
+A SLURP, or _Stochastic Library Unit with Relationships Preserved,_ is a collection of potentially related SIPs, with
+relationships preserved via the order of the samples within each SIP.
 
-The SIPmath Standard is managed by [Probability Management](http://probabilitymanagement.org/what-we-do.html), a non-profit which helps businesses manage their uncertainty.  
+The SIPmath Standard is managed by [Probability Management](http://probabilitymanagement.org/what-we-do.html), a
+non-profit which helps businesses manage their uncertainty.  
 
-Guesstimate currently can import JSON Slurps via the 'file' menu within a space. Each SIP within the SLURP will be imported as a new metric at the bottom of the model, with the name, reasoning, and data of the metric inferred from the SIP.
+Guesstimate currently can import JSON Slurps via the 'file' menu within a space. Each SIP within the SLURP will be
+imported as a new metric at the bottom of the model, with the name, reasoning, and data of the metric inferred from the
+SIP.
 
-The SIPmath standard allows for SLURPs to come in many formats, but Guesstimate can only currently import the JSON format. An Example JSON SLURP is shown below.
+The SIPmath standard allows for SLURPs to come in many formats, but Guesstimate can only currently import the JSON
+format. An Example JSON SLURP is shown below.
 
 <pre>{
   "name": "exampleSLURP",
