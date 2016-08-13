@@ -14,11 +14,10 @@ primary way of introducing uncertainty into a Guesstimate model is via a _confid
 the form `X to Y`, or via a dataset. Both ranges and datasets can be inserted directly into a Guesstimate cell, and the
 system will perform all downstream calculations in a statistically meaningful way.
 
-For example, if we expand our Boston piano tuner population model from above, we might refine our estimate of the number
-of pianos in Boston to account our uncertainty, and say that instead of their being 100,000 pianos in boston, there are
-rather somewhere between 85,000 and 150,000 pianos in Boston. We can also add some custom data to our pianos per tuner
-estimate by polling all of our piano tuner friends to see how many pianos they service, then entering their responses as
-a comma or enter separated list directly into the cell.
+For example, if we expand our Boston piano tuner population model from above to account for uncertainty, we might say
+that instead of there being 100,000 pianos in boston, there are somewhere between 85,000 and 150,000 pianos in Boston.
+We can also add some custom data to our pianos per tuner estimate by polling all of our piano tuner friends to see how
+many pianos they service, then entering their responses as a comma or enter separated list directly into the cell.
 
 ![Example Model with Uncertainty](./assets/Ranges & Data.png)
 
