@@ -15,6 +15,7 @@
   * [Financial Functions](functions/finance_functions.md)
   * [Distributions](functions/distributions.md)
 * [Facts](facts.md)
+* [Feedback](https://productpains.com/product/guesstimate)
 * [Release Notes](release_notes/README.md)
   * [4-5-2016](release_notes/4-5-2016.md)
   * [4-26-2016](release_notes/4-26-2016.md)
