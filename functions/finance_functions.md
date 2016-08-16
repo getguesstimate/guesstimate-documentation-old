@@ -1,6 +1,8 @@
 # Financial Functions
 
-Guesstimate uses [Finance.js](http://financejs.org/) for financial functions. Most functions are available, and we have good overlap with most spreadsheet financial functions (if you need more, contact us with the chat window below). In particular, the following functions are available.
+Guesstimate uses [Finance.js](http://financejs.org/) for financial functions. Most functions are available, and we have
+good overlap with most spreadsheet financial functions (if you need more, please contact us). In particular, the
+following functions are available.
 
 *   [AM(principal, rate, total number of payments, [type])](http://financejs.org/#Amortization)
 *   [CAGR(beginning value, ending value, number of periods)](http://financejs.org/#CAGR)
