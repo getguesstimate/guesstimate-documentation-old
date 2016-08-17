@@ -1,10 +1,6 @@
 # Main Functions
 
-Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions and constants from math.js are available. Units are not available with Guesstimate. They have a list of constants [here](http://mathjs.org/docs/reference/constants.html).
-
-## arithmetic
-
-## [](http://mathjs.org/docs/reference/functions/categorical.html#arithmetic "Permalink")
+## [Arithmetic](http://mathjs.org/docs/reference/functions/categorical.html#arithmetic "Permalink")
 
 *   [abs(x)](http://mathjs.org/docs/reference/functions/abs.html)
 *   [add(x, y)](http://mathjs.org/docs/reference/functions/add.html)
@@ -37,7 +33,7 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [unaryPlus(x)](http://mathjs.org/docs/reference/functions/unaryPlus.html)
 *   [xgcd(a, b)](http://mathjs.org/docs/reference/functions/xgcd.html)
 
-## bitwise[](http://mathjs.org/docs/reference/functions/categorical.html#bitwise "Permalink")
+## [Bitwise](http://mathjs.org/docs/reference/functions/categorical.html#bitwise "Permalink")
 
 *   [bitAnd(x, y)](http://mathjs.org/docs/reference/functions/bitAnd.html)
 *   [bitNot(x)](http://mathjs.org/docs/reference/functions/bitNot.html)
@@ -47,19 +43,19 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [rightArithShift(x, y)](http://mathjs.org/docs/reference/functions/rightArithShift.html)
 *   [rightLogShift(x, y)](http://mathjs.org/docs/reference/functions/rightLogShift.html)
 
-## combinatorics[](http://mathjs.org/docs/reference/functions/categorical.html#combinatorics "Permalink")
+## [Combinatorics](http://mathjs.org/docs/reference/functions/categorical.html#combinatorics "Permalink")
 
 *   [bellNumbers(n)](http://mathjs.org/docs/reference/functions/bellNumbers.html)
 *   [catalan(n)](http://mathjs.org/docs/reference/functions/catalan.html)
 *   [composition(n, k)](http://mathjs.org/docs/reference/functions/composition.html)
 *   [stirlingS2(n, k)](http://mathjs.org/docs/reference/functions/stirlingS2.html)
 
-## geometry[](http://mathjs.org/docs/reference/functions/categorical.html#geometry "Permalink")
+## [Geometry](http://mathjs.org/docs/reference/functions/categorical.html#geometry "Permalink")
 
 *   [distance([x1, y1], [x2, y2])](http://mathjs.org/docs/reference/functions/distance.html)
 *   [intersect(endPoint1Line1, endPoint2Line1, endPoint1Line2, endPoint2Line2)](http://mathjs.org/docs/reference/functions/intersect.html)
 
-## probability[](http://mathjs.org/docs/reference/functions/categorical.html#probability "Permalink")
+## [Probability](http://mathjs.org/docs/reference/functions/categorical.html#probability "Permalink")
 
 *   [combinations(n, k)](http://mathjs.org/docs/reference/functions/combinations.html)
 *   [factorial(n)](http://mathjs.org/docs/reference/functions/factorial.html)
@@ -69,7 +65,7 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [pickRandom(array)](http://mathjs.org/docs/reference/functions/pickRandom.html)
 *   [randomInt([min, max])](http://mathjs.org/docs/reference/functions/randomInt.html)
 
-## relational[](http://mathjs.org/docs/reference/functions/categorical.html#relational "Permalink")
+## [Relational](http://mathjs.org/docs/reference/functions/categorical.html#relational "Permalink")
 
 *   [compare(x, y)](http://mathjs.org/docs/reference/functions/compare.html)
 *   [deepEqual(x, y)](http://mathjs.org/docs/reference/functions/deepEqual.html)
@@ -80,7 +76,7 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [smallerEq(x, y)](http://mathjs.org/docs/reference/functions/smallerEq.html)
 *   [unequal(x, y)](http://mathjs.org/docs/reference/functions/unequal.html)
 
-## statistics[](http://mathjs.org/docs/reference/functions/categorical.html#statistics "Permalink")
+## [Statistics](http://mathjs.org/docs/reference/functions/categorical.html#statistics "Permalink")
 
 *   [max(a, b, c, ...)](http://mathjs.org/docs/reference/functions/max.html)
 *   [mean(a, b, c, ...)](http://mathjs.org/docs/reference/functions/mean.html)
@@ -93,7 +89,7 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [sum(a, b, c, ...)](http://mathjs.org/docs/reference/functions/sum.html)
 *   [var(a, b, c, ...)](http://mathjs.org/docs/reference/functions/var.html)
 
-## trigonometry[](http://mathjs.org/docs/reference/functions/categorical.html#trigonometry "Permalink")
+## [Trigonometry](http://mathjs.org/docs/reference/functions/categorical.html#trigonometry "Permalink")
 
 *   [acos(x)](http://mathjs.org/docs/reference/functions/acos.html)
 *   [acosh(x)](http://mathjs.org/docs/reference/functions/acosh.html)
@@ -120,5 +116,3 @@ Guesstimate uses [math.js](http://mathjs.org/) for math parsing. Most functions 
 *   [sinh(x)](http://mathjs.org/docs/reference/functions/sinh.html)
 *   [tan(x)](http://mathjs.org/docs/reference/functions/tan.html)
 *   [tanh(x)](http://mathjs.org/docs/reference/functions/tanh.html)
-
-List from the [math.js documentation](http://mathjs.org/docs/reference/functions/categorical.html), filtered for what would work in Guesstimate.
