@@ -1,6 +1,6 @@
 # Input Types
 
-Guesstimate cells support several diferent types of inputs.
+Metrics support several diferent types of inputs.
 
 #### Point Values
 
