@@ -9,6 +9,7 @@
   * [Input Types](basic_modeling/input_types.md)
   * [Interpreting Your Results](basic_modeling/interpreting_your_results.md)
   * [SIPS and SLURPS](basic_modeling/sips_and_slurps.md)
+* [Calculators](calculators.md)
 * [Function Reference](functions/README.md)
   * [Operators](functions/operators.md)
   * [Available Functions](functions/existing_functions.md)
