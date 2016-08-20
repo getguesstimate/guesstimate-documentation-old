@@ -8,6 +8,7 @@
 * [Modeling](basic_modeling/README.md)
   * [Input Types](basic_modeling/input_types.md)
   * [Interpreting Your Results](basic_modeling/interpreting_your_results.md)
+  * [Analysis Mode](basic_modeling/analysis_mode.md)
   * [SIPS and SLURPS](basic_modeling/sips_and_slurps.md)
 * [Function Reference](functions/README.md)
   * [Operators](functions/operators.md)
