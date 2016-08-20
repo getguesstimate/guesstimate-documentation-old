@@ -16,6 +16,7 @@
   * [Available Functions](functions/existing_functions.md)
   * [Financial Functions](functions/finance_functions.md)
   * [Distributions](functions/distributions.md)
+* [Organizations](organizations.md)
 * [Facts](facts.md)
 * [Feedback](https://productpains.com/product/guesstimate)
 * [Release Notes](release_notes/README.md)
