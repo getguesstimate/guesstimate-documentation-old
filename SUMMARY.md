@@ -10,6 +10,7 @@
   * [Interpreting Your Results](basic_modeling/interpreting_your_results.md)
   * [Analysis Mode](basic_modeling/analysis_mode.md)
   * [SIPS and SLURPS](basic_modeling/sips_and_slurps.md)
+  * [Markdown](basic_modeling/markdown.md)
 * [Calculators](calculators.md)
 * [Function Reference](functions/README.md)
   * [Operators](functions/operators.md)
