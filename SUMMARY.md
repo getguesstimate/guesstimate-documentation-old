@@ -18,7 +18,7 @@
   * [Financial Functions](functions/finance_functions.md)
   * [Distributions](functions/distributions.md)
 * [Organizations](organizations.md)
-* [Facts](facts.md)
+* [Global and Organization Metrics](global_and_organization_metrics.md)
 * [Feedback](https://productpains.com/product/guesstimate)
 * [Release Notes](release_notes/README.md)
   * [4-5-2016](release_notes/4-5-2016.md)
