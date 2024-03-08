@@ -1,3 +1,5 @@
+*Note: This repo is an old version of the Guesstimate documentation that used Gitbook. Gitbook deprecated the version we used, so we have since updated this.*
+
 # Guesstimate
 
 Guesstimate is a spreadsheet tool that helps you model and forecast uncertain quantities. Guesstimate's interface is
